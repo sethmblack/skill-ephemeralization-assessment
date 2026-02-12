@@ -1,10 +1,9 @@
 ---
 name: ephemeralization-assessment
-description: Identify opportunities to accomplish the same or greater results with
-  fewer resources - apply the principle of doing more with less.
+description: Identify opportunities to accomplish the same or greater results with fewer resources - apply the principle of doing more with less.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - ephemeralization-assessment
