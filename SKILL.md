@@ -3,8 +3,9 @@ name: ephemeralization-assessment
 description: Identify opportunities to accomplish the same or greater results with fewer resources - apply the principle of doing more with less.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3911
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ephemeralization-assessment
 - writing
